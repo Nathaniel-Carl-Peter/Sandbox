@@ -2,6 +2,8 @@
 CP1404 - Programing 2
 
 Get Password with minimum length
+
+Nathaniel Carl Peter
 """
 
 """
