@@ -1,11 +1,12 @@
 """
-CP1402
+CP1404 - Programing 2
 
 Get Password with minimum length
 """
 
 """
 # Pseudo code of the 1st password creation program
+
 get user password
 for password in range(length(password))
 display *
